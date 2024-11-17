@@ -1,0 +1,43 @@
+
+.header {
+  text-align: center;
+  padding: 20px;
+  background-color: #333;
+  color: #fff;
+}
+.buttons {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.row {
+  display: flex;
+  justify-content: center;
+  margin-left: 20px;
+}
+
+.display {
+  width: 240px;
+  height: 60px;
+  background-color: #ddd;
+  color: #333;
+  font-size: 2em;
+  padding: 10px;
+  margin: 10px 0px 10px 20px;
+  border-radius: 8px;
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: insert 0 2px 5px rgba(0, 0, 0, 0.2);
+}
+
+button {
+  width: 60px;
+  height: 60px;
+  font-size: 24px;
+  margin: 5px;
+  cursor: pointer;
+}

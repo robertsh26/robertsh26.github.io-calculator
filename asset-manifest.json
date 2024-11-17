@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/robertsh26/robertsh26.github.io-calculator/static/css/main.a03e88bf.css",
+    "main.js": "/robertsh26/robertsh26.github.io-calculator/static/js/main.384697a1.js",
+    "static/js/453.83bdee10.chunk.js": "/robertsh26/robertsh26.github.io-calculator/static/js/453.83bdee10.chunk.js",
+    "index.html": "/robertsh26/robertsh26.github.io-calculator/index.html",
+    "main.a03e88bf.css.map": "/robertsh26/robertsh26.github.io-calculator/static/css/main.a03e88bf.css.map",
+    "main.384697a1.js.map": "/robertsh26/robertsh26.github.io-calculator/static/js/main.384697a1.js.map",
+    "453.83bdee10.chunk.js.map": "/robertsh26/robertsh26.github.io-calculator/static/js/453.83bdee10.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a03e88bf.css",
+    "static/js/main.384697a1.js"
+  ]
+}
